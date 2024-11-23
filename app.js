@@ -23,7 +23,7 @@ console.log(messege);
 
 //asigment 2
 
-question1
+//question1
 var userName = "muhammadsami"
 console.log(userName);
 
@@ -140,5 +140,4 @@ console.log("five ticket price"+fiveTicketPrice);
 //question5
 for(var i =1;i<11;i++){
     console.log("4 x"+i  +"="+i *4 );
-    
-}
+    }
